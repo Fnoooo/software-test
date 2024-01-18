@@ -1,0 +1,4 @@
+com\fjnu\config\SpringMVCAppInitializer.class
+com\fjnu\config\WebMVCContext.class
+com\fjnu\config\RoolWebContext.class
+com\fjnu\controller\ExampleController.class
